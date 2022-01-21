@@ -4,6 +4,7 @@ title: haunted
 
 # Haunted
 *Cover art*: [[Haunted BW]]. *2021*.
+<audio src="assets/05 - Yama He - mimi2 Haunted rework + Intro 3.mp3" controls preload></audio>
 
 ## Lyrics
 
@@ -23,9 +24,9 @@ Through the wall, all because he so clever.
 Will I remember that these are my limits?  
 Within the blue lights remember that these are my limits.  
 
-[Direct Stream](assets/05 - Yama He - mimi2 Haunted rework + Intro 3.mp3)
-[Spotify](https://open.spotify.com/track/2tiBRY3VqfWtb5WuyQANOg?si=9f9bf9f708d246d0)
-<audio src="assets/05 - Yama He - mimi2 Haunted rework + Intro 3.mp3" controls preload></audio>
+## Links
+
+[Spotify](https://open.spotify.com/track/2tiBRY3VqfWtb5WuyQANOg?si=f02b382205804259)
 
 ---
 
