@@ -5,9 +5,9 @@ title: abstract still negative
 [[Works]]
 
 # Abstract Still Negative
-3D rendering, image post-processing. *2021*
+*3D rendering, image post-processing. 2021*
 
-![abstract](assets/abstract still negative.jpg)  
+![abstract](assets/abstractstillnegative.jpg)
 
 This is a branch from [[Abstract Still]], which was comissioned by [Shizumi](https://www.instagram.com/__shizumi) for a bag design.  
 Here I decided to intervene and drift the feeling to a more personal configuration.

@@ -5,8 +5,7 @@ title: haunted
 [[Works]]
 
 # Haunted
-*2021*.
-*Cover art*: [[Haunted BW]].
+*Cover art*: [[Haunted BW]]. *2021*.
 
 ## Lyrics
 
