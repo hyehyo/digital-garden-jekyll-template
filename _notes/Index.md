@@ -12,7 +12,7 @@ I've made music and visual art.
 [[Works]]
 
 # A journal
-Recollections of things I want to show
+Recollection of things I want to show
 
  <div class="container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tJokI__-A8w?start=120" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" class="video" allowfullscreen></iframe>
