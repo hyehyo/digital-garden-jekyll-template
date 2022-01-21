@@ -1,7 +1,6 @@
 ---
 tags: project
 ---
-[[Works]]
 
 # Machine
 
@@ -14,3 +13,7 @@ tags: project
 - [x] complete dissonant chords part ✅ 2022-01-17
 	
 #wip	
+
+---
+
+[[Works]]

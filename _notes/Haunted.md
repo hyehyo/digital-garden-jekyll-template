@@ -2,8 +2,6 @@
 title: haunted
 ---
 
-[[Works]]
-
 # Haunted
 *Cover art*: [[Haunted BW]]. *2021*.
 
@@ -27,3 +25,7 @@ Within the blue lights remember that these are my limits.
 
 [Direct Stream](assets/05 - Yama He - mimi2 Haunted rework + Intro 3.mp3)
 [Spotify](https://open.spotify.com/track/2tiBRY3VqfWtb5WuyQANOg?si=9f9bf9f708d246d0)
+
+---
+
+[[Works]]
