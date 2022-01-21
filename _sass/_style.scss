@@ -7,6 +7,7 @@ $border-radius: 4px;
 $font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
   sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
 
+
 body {
   box-sizing: content-box;
   font-family: $font-family;
@@ -23,7 +24,7 @@ body {
 }
 
 #homelink {
-  color: #b8b4b4;
+  color: #000000;
 }
 
 time {
@@ -42,7 +43,9 @@ footer {
 img {
   max-width: 100%;
   display: block;
-  margin: 0 auto;
+  padding-bottom: 1em;
+  padding-top: 0.5em;
+  // margin: 0 auto;
   max-height: 75vh;
   border-radius: $border-radius;
 }
@@ -108,7 +111,7 @@ a {
 }
 
 nav {
-  margin: 1em 0 3em;
+  margin: 0.7em 0 0.7em;
 }
 
 .container {
@@ -126,6 +129,8 @@ nav {
 }
 
 #notes-entry-container {
+  #content br {display: none;}
+  #content p br {display: inline;}
   display: grid;
   @import url(https://fonts.googleapis.com/css?family=Inconsolata:200,300,regular,500,600,700,800,900);
   @import url(https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900);
@@ -135,7 +140,7 @@ nav {
   color: #999999;
   grid-gap: 2em;
   margin: auto;
-  font-size: 0.8em;
+  font-size: 0.9em;
   grid-template-areas:
     "content"
     "side";

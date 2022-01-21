@@ -2,9 +2,14 @@
 title: works
 ---
 
-# Music
+# Sound
 
-- [[Haunted]]
-- [[Machine]]
+- [[Haunted]], *2021*
+- [[Machine]], *2022*
 
+# Image
+
+- [[Abstract Still Negative]]
+- [[Hashimoto]]
+- [[Haunted BW]]
 
