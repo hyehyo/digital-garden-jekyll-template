@@ -2,7 +2,7 @@
 title: abstract still
 ---
 
-[[works]]
+[[Works]]
 
 ![abstractstill](assets/abstractstill.jpg)
 

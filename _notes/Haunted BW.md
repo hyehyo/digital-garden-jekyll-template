@@ -2,7 +2,7 @@
 title: haunted bw
 ---
 
-[[works]]
+[[Works]]
 
 
 ![Haunted BW](assets/Haunted-bw-6.jpg)
