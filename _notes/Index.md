@@ -2,8 +2,6 @@
 tags: moc
 ---
 
-# Map
-
 [[Works]]  
-[[Self]]
+[[Self]]  
 [[About]]
