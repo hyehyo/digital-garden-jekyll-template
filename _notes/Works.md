@@ -2,7 +2,7 @@
 title: works
 ---
 
-# sound
+# Sound
 
 - [[Haunted]]
 - Wherever I, #tbp
@@ -20,7 +20,7 @@ title: works
 
 ---
 
-# image
+# Image
 
 - [[Abstract Still]]
 - [[Abstract Still Negative]]
