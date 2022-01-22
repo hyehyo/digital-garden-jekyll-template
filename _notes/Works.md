@@ -2,11 +2,11 @@
 title: works
 ---
 
-# Sound
+# sound
 
 - [[Haunted]], *2021*
 
-# Image
+# image
 
 - [[Abstract Still Negative]]
 - [[Haunted BW]]
