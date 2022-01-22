@@ -2,6 +2,9 @@
 title: haunted bw
 ---
 
+[[Works]]
+
+
 ![Haunted BW](assets/Haunted-bw-6.jpg)
 
 # Haunted BW
@@ -10,5 +13,3 @@ title: haunted bw
 Cover art for [[Haunted]].
 
 ---
-
-[[Works]]

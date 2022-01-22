@@ -2,6 +2,8 @@
 title: haunted
 ---
 
+[[Works]]
+
 # Haunted
 *Cover art*: [[Haunted BW]]. *2021*.
 <audio src="assets/05 - Yama He - mimi2 Haunted rework + Intro 3.mp3" controls preload></audio>

@@ -2,6 +2,8 @@
 title: feel no guilt of who you are
 ---
 
+[[Self]]
+
 # Feel no guilt of who you are (Or who am I)
 
 A consecuence of environment, heritage, experience and genetics. So is everyone else.

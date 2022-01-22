@@ -12,8 +12,4 @@ tags: project
 - [x] stabilize both hooks ✅ 2022-01-08
 - [x] complete dissonant chords part ✅ 2022-01-17
 	
-#wip	
-
----
-
-[[Works]]
+#wip 
