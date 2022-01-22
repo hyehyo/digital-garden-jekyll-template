@@ -9,7 +9,5 @@ title: works
 
 # Image
 
-- [[Abstract Still Negative]]
-- [[Hashimoto]]
 - [[Haunted BW]]
 
