@@ -2,7 +2,7 @@
 title: haunted
 ---
 
-[[Works]]
+[[works]]
 
 # Haunted
 *Cover art*: [[Haunted BW]]. *2021*.
@@ -32,4 +32,4 @@ Within the blue lights remember that these are my limits.
 
 ---
 
-[[Works]]
+[[works]]

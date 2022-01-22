@@ -2,7 +2,7 @@
 title: hashimoto
 ---
 
-[[Works]]
+[[works]]
 
 ![Hashimoto](assets/Hashimoto.jpg)
 

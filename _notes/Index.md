@@ -2,6 +2,6 @@
 tags: moc
 ---
 
-[[Works]]  
+[[works]]  
 [[Self]]  
 [[About]]

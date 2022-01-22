@@ -2,7 +2,7 @@
 title: abstract still negative
 ---
 
-[[Works]]
+[[works]]
 
 ![abstract](assets/abstractstillnegative.jpg)
 
