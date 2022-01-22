@@ -6,7 +6,7 @@ title: abstract still
 
 # Abstract Still
 
-*3D modelling. 2021.*
+*3D rendering. 2021.*
 
 For [shizumi](https://www.instagram.com/__shizumi)
 
