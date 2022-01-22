@@ -3,7 +3,7 @@ title: My brain is hacked
 tags: self, plant
 ---
 
-[[Self]]
+[[Thoughts]]
 
 # My brain is hacked
 

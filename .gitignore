@@ -13,3 +13,9 @@ _includes/notes_graph.json
 
 # Obsidian config
 .obsidian/
+
+# Staging folder
+_notes/_staging/
+
+# trash
+.trash

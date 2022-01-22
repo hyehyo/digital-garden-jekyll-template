@@ -2,7 +2,7 @@
 title: feel no guilt of who you are
 ---
 
-[[Self]]
+[[Thoughts]]
 
 # Feel no guilt of who you are (Or who am I)
 

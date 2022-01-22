@@ -3,5 +3,5 @@ tags: moc
 ---
 
 [[Works]]  
-[[Self]]  
+[[Thoughts]]  
 [[About]]

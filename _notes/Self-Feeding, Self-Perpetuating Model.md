@@ -3,7 +3,7 @@ title: Self-Feeding, Self-Perpetuating Model
 tags: self, plant
 ---
 
-[[Self]]
+[[Thoughts]]
 
 # Self-Feeding, Self-Perpetuating Model
 

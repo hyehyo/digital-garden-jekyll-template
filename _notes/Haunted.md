@@ -29,7 +29,3 @@ Within the blue lights remember that these are my limits.
 ## Links
 
 [Spotify](https://open.spotify.com/track/2tiBRY3VqfWtb5WuyQANOg?si=f02b382205804259)
-
----
-
-[[Works]]
