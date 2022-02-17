@@ -2,4 +2,4 @@
 title: self
 ---
 
-[[Self-Feeding, Self-Perpetuating Model]]
+[[Self-Feeding, Self-Perpetuating Model]]  
